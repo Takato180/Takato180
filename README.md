@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takato180&theme=2077)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Takato180&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
+[![trophy](https://github-profile-trophy.vercel.app/?username=Takato180&theme=onedark)](https://github-profile-trophy.vercel.app/?username=Takato180&theme=tokyonight
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 [![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
 [![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takato180&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxxxxx)](https://github.com/Takato180)
 
-[![github-chart](https://github-chart.vercel.app/api?user=xxxxxxxxxx)](https://github.com/Takato180/github-chart)
+[![github-chart](https://github-chart.vercel.app/api?user=Takato180)](https://github.com/Takato180/github-chart)
 
 <svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
     <foreignObject width="100%" height="100%">
