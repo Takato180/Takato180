@@ -26,9 +26,14 @@ Here are some ideas to get you started:
 [![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takato180&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takato180&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takato&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takato180&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20Takato180)](https://github.com/Takato180)
 
 [![github-chart](https://github-chart.vercel.app/api?user=Takato180)](https://github.com/Takato180/github-chart)
