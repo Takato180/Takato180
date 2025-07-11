@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takato180&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Takato180&theme=onedark)](https://github-profile-trophy.vercel.app/?username=Takato180&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Takato180&theme=onedark&column=7)](https://github-profile-trophy.vercel.app/?username=Takato180&theme=tokyonight)
 
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 [![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
