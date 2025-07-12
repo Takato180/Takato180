@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20Takato180)](https://github.com/Takato180)
 
